@@ -15,8 +15,8 @@
 
 
 ### 4. 블록 스크립트
-- 해당 Repository 로 이동 [링크] ( )
-
+- 개발1) 해당 Repository 로 이동 [링크] ()
+- 개발2) 해당 Repository 로 이동 [링크] (https://drive.google.com/file/d/0B4JkEdUXrqhIRW03bk1zcjY1Yjg/view?usp=sharing)
 
 ### 5. 구글 플레이 화면 모방
 - 해당 Repository 로 이동 [링크] ( )
