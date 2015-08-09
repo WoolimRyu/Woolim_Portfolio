@@ -9,7 +9,7 @@
 - 해당 Repository 로 이동 [링크] ( )
 
 
-### 3. 2인용 웹 게임 및 채팅 개
+### 3. 2인용 웹 게임 및 채팅 개발
 - 해당 Repository 로 이동 [링크] (https://github.com/yskoh/2014-03-YNCA)
 - 참고사항) 깃헙계정이 잘못되어서, 해당 레파지토리 contributors 에서 저의 이름을 찾을 수 없습니다. ㅠ_ㅠ <br> commit 탭에 가셔서 woolimRyu 로 커밋한 부분이 제가 개발한 부분입니다.
 
