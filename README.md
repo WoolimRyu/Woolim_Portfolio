@@ -11,7 +11,7 @@
 
 
 ### 4. 블록 스크립트
-- 개발1) 해당 Repository 로 이동 [링크] ()
+- 개발1) 해당 Repository 로 이동 [링크] (https://github.com/WoolimRyu/BlockScript)
 - 개발2) 해당 Repository 로 이동 [링크] (https://drive.google.com/file/d/0B4JkEdUXrqhIRW03bk1zcjY1Yjg/view?usp=sharing)
 
 
